@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Kevin Hernandez Umaña C33773
 
 //Creacion de la funcion potencia con recursividad
 
